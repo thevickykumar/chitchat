@@ -1,0 +1,1 @@
+~Sidebar active function not working
